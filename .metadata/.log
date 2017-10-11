@@ -1828,3 +1828,8 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.
 
 !ENTRY org.eclipse.cdt.core 1 0 2017-10-10 23:12:14.979
 !MESSAGE Indexed 'ExtraCreditDebouncing' (1 sources, 5 headers) in 0.637 sec: 1,469 declarations; 2,007 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.core.resources 2 2 2017-10-10 23:17:12.927
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-10-10 23:17:12.928
+!MESSAGE The project description file (.project) for 'ExtraCreditDebouncing' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
